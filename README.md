@@ -25,7 +25,7 @@ Grab the latest [Releases](https://drive.google.com/drive/folders/1X-PTCwWpxk_J8
 
 | Build | File |
 |-------|------|
-| Apple Silicon (M1/M2/M3) | [MonsterFile-1.0.0-arm64.dmg](https://drive.google.com/file/d/1zXGcOT6AjvXa0dVhtbuC86J1XlbOLiKL/view?usp=drive_link) |
+| Apple Silicon (M1/M2/M3/M4/M5) | [MonsterFile-1.0.0-arm64.dmg](https://drive.google.com/file/d/1zXGcOT6AjvXa0dVhtbuC86J1XlbOLiKL/view?usp=drive_link) |
 | Intel Mac | [MonsterFile-1.0.0.dmg](https://drive.google.com/file/d/1BT4KFxTu0HpP7kN7CoQbGDEgo60GgJM-/view?usp=sharing) |
 | Windows ARM64 | Coming soon |
 | Windows x64 (Intel) | Coming soon |
